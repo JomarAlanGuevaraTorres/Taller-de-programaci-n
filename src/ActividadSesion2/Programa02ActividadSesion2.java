@@ -1,9 +1,9 @@
-package Tareas;
+package ActividadSesion2;
 
 import java.lang.Math;
 import java.util.Scanner;
 //calculo de la hipotenusa
-public class Programa02math{
+public class Programa02ActividadSesion2 {
     public static void main(String[]args){
       
         double catO,catA,H;

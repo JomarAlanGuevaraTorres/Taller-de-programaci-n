@@ -1,8 +1,8 @@
-package Tareas;
+package ActividadSesion3;
 
 import java.util.Scanner;
 
-public class Programa05TareaSesion03CondicionSimple  {
+public class Programa01ActividadSesion03 {
    /*
     Programa que valida si una compra es mayor a 1000 
     y otorga un descuento de 10%

@@ -1,9 +1,9 @@
 
-package Tareas;
+package ActividadSesion3;
 
 import java.util.Scanner;
 
-public class Programa06TareaSesion03CondicionDoble  {
+public class Programa02ActividadSesion03  {
     
     public static void main (String[]args){
        

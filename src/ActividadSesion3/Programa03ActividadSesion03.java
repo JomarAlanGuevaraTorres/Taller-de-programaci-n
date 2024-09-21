@@ -1,4 +1,4 @@
-package Tareas;
+package ActividadSesion3;
 
 /*
 Programa que de acuerdo a una nota imprime un mensaje
@@ -6,7 +6,7 @@ Programa que de acuerdo a una nota imprime un mensaje
 
 import java.util.Scanner;
 
-public class Programa07TareaSesion03CondicionMultiple {
+public class Programa03ActividadSesion03 {
   
     public static void main(String[] args) {
       //Definimos las variables 

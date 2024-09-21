@@ -5,9 +5,7 @@ Número=5
 Romano=V
  */
 package ActividadSesion4;
-
 import java.util.Scanner;
-
 public class Programa02ActividadSesion04 {
 
 public static void main(String[] args){

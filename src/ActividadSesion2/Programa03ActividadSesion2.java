@@ -1,9 +1,9 @@
-package Tareas;
+package ActividadSesion2;
 //Importamos librerias a utilizar
 import java.lang.Math;
 import java.util.Scanner;
 //definimos la clase condicional numero positivo y negativo
-public class Programa03math {
+public class Programa03ActividadSesion2  {
     public static void main(String[]args){
    //objeto de lectura
    Scanner lectura=new Scanner(System.in);

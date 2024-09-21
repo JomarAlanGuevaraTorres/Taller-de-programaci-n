@@ -5,7 +5,7 @@ package ActividadSesion6;
 
 import java.util.Scanner;
 
-public class Programa02 {
+public class Programa02ActividadSesion06 {
     public static void main(String[] args) {
         //declarar variables
         int numero, dig, suma = 0;

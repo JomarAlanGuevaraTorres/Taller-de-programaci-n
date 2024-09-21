@@ -1,9 +1,9 @@
-package Tareas;
+package ActividadSesion2;
 //Importamos librerias a utilizar
 import java.util.Scanner;
 import java.lang.Math;
 //definimos la clase potencia x de un numero 
-public class Programa01math {
+public class Programa01ActividadSesion2 {
 //Definimos el metodo
     public static void main(String[]args){
     //Creamos un objeto de lectura

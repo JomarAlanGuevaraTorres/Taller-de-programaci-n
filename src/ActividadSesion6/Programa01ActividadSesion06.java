@@ -3,7 +3,7 @@ Programa que suma los numeros hasta el ingresado
  */
 package ActividadSesion6;
 import java.util.Scanner;
-public class Programa01 {
+public class Programa01ActividadSesion06 {
     public static void main(String[] args) {
         //declaramos variables
         int numero,sumatoria=0;

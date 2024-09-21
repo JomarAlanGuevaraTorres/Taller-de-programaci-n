@@ -7,7 +7,7 @@ RESULTADO:1,2,3,4,5,6,7,8,9,10
 package ActividadSesion6;
 import java.util.Scanner;
 
-public class Programa03 {
+public class Programa03ActividadSesion06 {
     public static void main(String[] args) {
         // Declaramos variables
         int numero, temp = 1;  
